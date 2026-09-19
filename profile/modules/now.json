@@ -1,0 +1,11 @@
+{
+  "type": "cards",
+  "title": "探索日志",
+  "subtitle": "CURRENT QUESTS",
+  "columns": 3,
+  "items": [
+    {"title": "正在开发", "label": "BUILDING", "body": "待填写 · 当前项目与进展"},
+    {"title": "正在学习", "label": "LEARNING", "body": "待填写 · 学习主题与计划"},
+    {"title": "近期目标", "label": "NEXT CHAPTER", "body": "待填写 · 希望完成的小挑战"}
+  ]
+}

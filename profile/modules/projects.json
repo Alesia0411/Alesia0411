@@ -1,0 +1,10 @@
+{
+  "type": "projects",
+  "title": "代表作品",
+  "subtitle": "SELECTED WORKS",
+  "columns": 2,
+  "items": [
+    {"title": "作品档案 01", "body": "待填写 · 项目解决的问题与核心价值", "contribution": "待填写 · 我的职责与关键成果", "tags": ["技术栈待填写"], "url": ""},
+    {"title": "作品档案 02", "body": "待填写 · 项目解决的问题与核心价值", "contribution": "待填写 · 我的职责与关键成果", "tags": ["技术栈待填写"], "url": ""}
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "timeline",
+  "title": "成长足迹",
+  "subtitle": "MILESTONES",
+  "items": [
+    {"date": "待填写", "title": "学习与教育经历", "body": "记录学习方向与重要收获。"},
+    {"date": "待填写", "title": "项目与实践经历", "body": "记录参与的项目与承担的职责。"},
+    {"date": "待填写", "title": "开源与社区参与", "body": "记录开源贡献与社区交流。"}
+  ]
+}

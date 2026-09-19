@@ -1,0 +1,11 @@
+{
+  "type": "links",
+  "title": "找到我",
+  "subtitle": "LET’S CONNECT",
+  "items": [
+    {"label": "GitHub", "url": "https://github.com/Alesia0411"},
+    {"label": "个人博客", "url": ""},
+    {"label": "作品集", "url": ""},
+    {"label": "Email", "url": ""}
+  ]
+}

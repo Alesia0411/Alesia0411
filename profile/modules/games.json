@@ -1,0 +1,11 @@
+{
+  "type": "games",
+  "title": "游戏名片",
+  "subtitle": "WORLDS I EXPLORE",
+  "columns": 3,
+  "items": [
+    {"title": "原神", "server": "待填写", "uid": "待填写", "status": "待填写", "accent": "#3b8f88"},
+    {"title": "崩坏：星穹铁道", "server": "待填写", "uid": "待填写", "status": "待填写", "accent": "#8270b2"},
+    {"title": "其他游戏", "server": "待填写", "uid": "待填写", "status": "待填写", "accent": "#ad8848"}
+  ]
+}

@@ -2,12 +2,12 @@
   "type": "skills",
   "title": "技能清单",
   "subtitle": "MY TOOLKIT",
-  "note": "技能待填写 · 只展示真实掌握的内容",
+  "note": "欢迎客户点菜喵",
   "groups": [
-    {"label": "编程语言", "tags": ["待填写"]},
-    {"label": "前端开发", "tags": ["待填写"]},
-    {"label": "后端与数据", "tags": ["待填写"]},
-    {"label": "工程工具", "tags": ["待填写"]},
-    {"label": "其他能力", "tags": ["待填写"]}
+    {"label": "编程语言", "tags": ["python/C++"]},
+    {"label": "前端开发", "tags": ["HTML/Vue"]},
+    {"label": "后端与数据", "tags": ["MySQL/FastAPI"]},
+    {"label": "工程工具", "tags": ["Docker/Redis"]},
+    {"label": "其他能力", "tags": ["agent相关基本都可以喵"]}
   ]
 }

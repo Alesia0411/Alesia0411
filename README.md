@@ -27,7 +27,7 @@
 
 <picture>
   <source media="(max-width: 600px)" srcset="assets/generated/row-05-mobile.svg">
-  <img src="assets/generated/row-05.svg" width="100%" alt="游戏名片。原神｜服务器：官服｜UID：107810124｜游玩状态：待填写；崩坏：星穹铁道｜服务器：官服｜UID：100547580｜游玩状态：待填写；明日方舟｜服务器：官服｜UID：Alesia#9807｜游玩状态：待填写">
+  <img src="assets/generated/row-05.svg" width="100%" alt="游戏名片。原神｜服务器：官服｜UID：107810124｜游玩状态：在玩；崩坏：星穹铁道｜服务器：官服｜UID：100547580｜游玩状态：在玩；明日方舟｜服务器：官服｜UID：Alesia#9807｜游玩状态：在玩">
 </picture>
 
 <picture>
@@ -89,9 +89,9 @@
 </ul>
 <h3>游戏名片</h3>
 <ul>
-<li>原神｜服务器：官服｜UID：107810124｜游玩状态：待填写</li>
-<li>崩坏：星穹铁道｜服务器：官服｜UID：100547580｜游玩状态：待填写</li>
-<li>明日方舟｜服务器：官服｜UID：Alesia#9807｜游玩状态：待填写</li>
+<li>原神｜服务器：官服｜UID：107810124｜游玩状态：在玩</li>
+<li>崩坏：星穹铁道｜服务器：官服｜UID：100547580｜游玩状态：在玩</li>
+<li>明日方舟｜服务器：官服｜UID：Alesia#9807｜游玩状态：在玩</li>
 </ul>
 <h3>找到我</h3>
 <ul>

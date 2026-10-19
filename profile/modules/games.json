@@ -4,8 +4,8 @@
   "subtitle": "WORLDS I EXPLORE",
   "columns": 3,
   "items": [
-    {"title": "原神", "server": "官服", "uid": "107810124", "status": "待填写", "accent": "#3b8f88"},
-    {"title": "崩坏：星穹铁道", "server": "官服", "uid": "100547580", "status": "待填写", "accent": "#8270b2"},
-    {"title": "明日方舟", "server": "官服", "uid": "Alesia#9807", "status": "待填写", "accent": "#ad8848"}
+    {"title": "原神", "server": "官服", "uid": "107810124", "status": "在玩", "accent": "#3b8f88"},
+    {"title": "崩坏：星穹铁道", "server": "官服", "uid": "100547580", "status": "在玩", "accent": "#8270b2"},
+    {"title": "明日方舟", "server": "官服", "uid": "Alesia#9807", "status": "在玩", "accent": "#ad8848"}
   ]
 }

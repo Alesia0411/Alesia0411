@@ -4,8 +4,8 @@
   "subtitle": "CURRENT QUESTS",
   "columns": 3,
   "items": [
-    {"title": "正在开发", "label": "BUILDING", "body": "待填写 · 当前项目与进展"},
-    {"title": "正在学习", "label": "LEARNING", "body": "待填写 · 学习主题与计划"},
-    {"title": "近期目标", "label": "NEXT CHAPTER", "body": "待填写 · 希望完成的小挑战"}
+    {"title": "正在开发", "label": "BUILDING", "body": "人机共存AIRP Agent交互社区"},
+    {"title": "正在学习", "label": "LEARNING", "body": "AI Agent， 世界模型"},
+    {"title": "近期目标", "label": "NEXT CHAPTER", "body": "学会所有Ai和开发相关技术喵"}
   ]
 }

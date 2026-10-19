@@ -4,7 +4,7 @@
   "subtitle": "SELECTED WORKS",
   "columns": 2,
   "items": [
-    {"title": "人机共存AIRP Agent交互社区", "body": "半夜找不到想找的人聊天怎么办", "contribution": "需求定义与应用实现", "tags": python/agent/前后端, "url": ""},
+    {"title": "人机共存AIRP Agent交互社区", "body": "半夜找不到想找的人聊天怎么办", "contribution": "需求定义与应用实现", "tags": ["python/agent/前后端"], "url": ""},
     {"title": "作品档案 02", "body": "待填写 · 项目解决的问题与核心价值", "contribution": "待填写 · 我的职责与关键成果", "tags": ["技术栈待填写"], "url": ""}
   ]
 }
